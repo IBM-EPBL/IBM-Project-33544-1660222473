@@ -7,7 +7,7 @@ Predicting and diagnosing heart disease is the biggest challenge in the medical 
 As per this project we will be using data analytics and creating a dashboard with visualizations that will help us predict heart disease.
 
 # Team Members
-Soumyah K M <br>
-Priyanka S<br>
-Ubhanisha Sri C<br>
-Heevitha R
+Soumyah K M - 917719IT097<br>
+Priyanka S - 917719IT071<br>
+Ubhanisha Sri C - 917719IT113<br>
+Heevitha R - 917719IT034

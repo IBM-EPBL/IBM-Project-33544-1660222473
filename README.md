@@ -3,7 +3,11 @@
 Team Id: PNT2022TMID21560
 Topic : Visualizing and Predicting Heart Diseases with an Interactive Dash Board
 Technology: Data analytics, IBM cloud
+
+
+
 ![welcome](https://user-images.githubusercontent.com/88701456/202838064-5b452c92-2224-4d97-8543-89632059a1f5.gif)
+
 
 
 # Project Description

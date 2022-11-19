@@ -10,7 +10,6 @@ Technology: Data analytics, IBM cloud
 
 
 
-
 # Project Description
 Predicting and diagnosing heart disease is the biggest challenge in the medical industry and it is based on factors like physical examination, symptoms and signs of the patient etc.
 As per this project we will be using data analytics and creating a dashboard with visualizations that will help us predict heart disease.
@@ -24,6 +23,3 @@ Priyanka S - 917719IT071<br>
 Ubhanisha Sri C - 917719IT113<br>
 Heevitha R - 917719IT034
 
-
-
-![thank you](https://user-images.githubusercontent.com/88701456/202838006-5a200903-2205-428a-8baa-ffd578474e3a.gif)

@@ -15,6 +15,8 @@ Predicting and diagnosing heart disease is the biggest challenge in the medical 
 As per this project we will be using data analytics and creating a dashboard with visualizations that will help us predict heart disease.
 
 Project Data Flow:
+
+
 ![data flow](https://user-images.githubusercontent.com/88701456/202837933-a571b88f-41ae-48eb-9a8a-3daa02b89c39.JPG)
 
 # Team Members

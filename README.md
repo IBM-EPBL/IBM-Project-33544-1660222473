@@ -1,8 +1,8 @@
-:confetti_ball: # IBM-Project-33544-1660222473 :confetti_ball:
+:confetti_ball: IBM-Project-33544-1660222473 :confetti_ball:
 
-Team Id: PNT2022TMID21560
+:chess_pawn: Team Id: PNT2022TMID21560
 
-Topic : Visualizing and Predicting Heart Diseases with an Interactive Dash Board
+:dart: Topic : Visualizing and Predicting Heart Diseases with an Interactive Dash Board
 Technology: Data analytics, IBM cloud
 
 

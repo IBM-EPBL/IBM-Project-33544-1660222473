@@ -21,8 +21,8 @@ Project Data Flow:
 ![data flow](https://user-images.githubusercontent.com/88701456/202837933-a571b88f-41ae-48eb-9a8a-3daa02b89c39.JPG)
 
 # Team Members
-Soumyah K M - 917719IT097<br>
-Priyanka S - 917719IT071<br>
-Ubhanisha Sri C - 917719IT113<br>
-Heevitha R - 917719IT034
+:yellow_circle: Soumyah K M - 917719IT097<br>
+:large_blue_circle: Priyanka S - 917719IT071<br>
+:green_circle: Ubhanisha Sri C - 917719IT113<br>
+:purple_circle: Heevitha R - 917719IT034
 

@@ -6,7 +6,8 @@ Technology: Data analytics, IBM cloud
 
 
 
-![welcome](https://user-images.githubusercontent.com/88701456/202838064-5b452c92-2224-4d97-8543-89632059a1f5.gif)
+![welcome](https://user-images.githubusercontent.com/88701456/202838153-6d166d75-f546-4f9d-8563-406d5b3d0faf.gif)
+
 
 
 
@@ -22,6 +23,7 @@ Soumyah K M - 917719IT097<br>
 Priyanka S - 917719IT071<br>
 Ubhanisha Sri C - 917719IT113<br>
 Heevitha R - 917719IT034
+
 
 
 ![thank you](https://user-images.githubusercontent.com/88701456/202838006-5a200903-2205-428a-8baa-ffd578474e3a.gif)
